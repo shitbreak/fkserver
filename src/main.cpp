@@ -9,6 +9,7 @@
 #include <time.h>
 #include <stdlib.h>
 #include <signal.h>
+#include <pthread.h>
 
 void checkerror()
 {
