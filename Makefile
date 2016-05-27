@@ -1,7 +1,7 @@
 #----------------------------------------------------------
 #编译工具用g++，以同时支持C和C++程序，以及二者的混合编译
 CC=g++ -g -Wall
-LDLIBS = -lm
+LDLIBS = -lm -lpthread
 Program = main.app
 
 Bin= bin/
