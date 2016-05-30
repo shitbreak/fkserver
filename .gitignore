@@ -29,5 +29,6 @@
 *.out
 *.app
 
+
 # Other
-*.browse.*
+.browse.VC.db
